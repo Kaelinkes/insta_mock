@@ -51,16 +51,16 @@
 ##Project Structure
   insta_mock/
   
-├── includes/
-   # PHP files for DB connection and helpers
-├── css/       
-   # Stylesheets
-├── js/         
-   # JavaScript files
-├── uploads/    
-   # Uploaded images(if missing create the folder)
-├── index.php   
-   # Login/dashboard page
+├── includes/# PHP files for DB connection and helpers
+
+├── css/ # Stylesheets
+
+├── js/ # JavaScript files
+
+├── uploads/ # Uploaded images(if missing create the folder)
+
+├── index.php   # Login/dashboard page
+
 ├── register.php
 
 ├── profile.php
