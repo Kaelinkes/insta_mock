@@ -39,8 +39,8 @@
 4. Serve the project using a local server (XAMPP/WAMP/LAMP or php -S localhost:8000)
 
 5. Open http://localhost/insta_mock in your browser
-   
-##Usage
+
+## Usage
 
 - Register a new user and login
 - Create posts and view your dashboard
@@ -48,7 +48,7 @@
 - Send and receive private messages
 - Edit your profile information and upload a profile picture
 - 
-##Project Structure
+## Project Structure
   insta_mock/
   
 ├── includes/# PHP files for DB connection and helpers
@@ -67,5 +67,5 @@
 
 └── messages.php
 
-##License
+## License
 MIT License – free to use, modify, and experiment with for educational purposes.
